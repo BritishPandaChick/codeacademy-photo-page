@@ -1,3 +1,11 @@
-# codeacademy-photo-page
+# Codeacademy Photo Page
+Photo page project from Codeacademy HTML &amp; CSS section. Made with HTML &amp; CSS.
 
-Photo page project from Codeacademy HTML &amp; CSS section.
+## Instructions
+Clone or download zip file. Open index.html file in your browser.
+
+## Contributing
+This repository is based on starter code from Codeacademy. Therefore I will not be accepting any pull requests.
+
+## Acknowledgements
+* Codeacademy
