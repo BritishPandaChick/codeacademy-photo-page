@@ -1,3 +1,21 @@
+body {
+  background: #191970;
+}
+
+th {
+  font-family: Arial;
+  font-size: 55px;
+  text-transform: uppercase;
+  color: #FFD700;
+}
+
 table, td {
-  border: 1px #70b8ff dashed;
+  border: 1px #FFD700 dashed;
+}
+
+p {
+  font-size: 15px;
+  color: #FFD700;
+  font-family: Arial;
+  padding: 15px;
 }
