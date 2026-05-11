@@ -1,11 +1,14 @@
 # Codecademy Photo Page
-Photo page project from Codecademy HTML and CSS section.
+A photo page project from Codecademy HTML and CSS section
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from Codecademy. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. You will see 9 pictures on the page. There will be a headline at the top of the page and a footer at the bottom.
 
 ## Acknowledgements
 * Codecademy
